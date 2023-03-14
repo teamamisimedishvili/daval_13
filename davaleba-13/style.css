@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+div { 
+    height: 420px;
+    width: 366px;
+    background-color: #FAF4EF;
+    border-bottom-left-radius: 50px;
+    margin-top: 230px;
+    margin-left: 537px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+h3 {
+    color: #4B4B4B;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 100%;
+}
+p {
+    color: #737373;
+    font-size: 20px;
+    
+  
+}
+img {
+    padding-top: 50px;
+}
